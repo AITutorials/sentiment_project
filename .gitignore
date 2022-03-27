@@ -1,0 +1,5 @@
+data/*
+checkpoints/*
+checkpoints_swa/*
+runs/*
+ModelServer/__pycache__/*
